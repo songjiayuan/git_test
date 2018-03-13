@@ -9,3 +9,6 @@ a, b, c, d = request.split()  # 处理数据
 
 
 'kshsjkdfhdlksngkldfgnklsdf'
+
+
+s=reksjklf;dsl/svca
