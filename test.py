@@ -8,6 +8,7 @@ a, b, c, d = request.split()  # 处理数据
 
 
 
+<<<<<<< HEAD
 'kshsjkdfhdlks
 ngkldfgnklsd
 f'
@@ -15,3 +16,11 @@ f'
 
 
 这是我在检出文件做的更改
+||||||| 750bcb4... 查看checkout
+'kshsjkdfhdlksngkldfgnklsdf'
+
+
+s=reksjklf;dsl/svca
+=======
+'kshsjkdfhdlksngkldfgnklsdf'
+>>>>>>> parent of 750bcb4... 查看checkout
